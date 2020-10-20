@@ -52,8 +52,8 @@ clean(){
 	rm -rf out
 }
 
-export KBUILD_BUILD_USER="Meow"
-export KBUILD_BUILD_HOST="Ratoriku"
+export KBUILD_BUILD_USER="Moeeze"
+export KBUILD_BUILD_HOST="Fammas"
 
 build_oldcam(){
 	print "Building OLDCAM..." blue
